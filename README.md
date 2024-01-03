@@ -6,6 +6,7 @@ Following are few screenshots from this system:
 ![4](https://github.com/itsmesj/Object_Detection/assets/81063467/dd0b500e-dd37-4ce4-b4d2-8856b06a7cb5)
 ![5](https://github.com/itsmesj/Object_Detection/assets/81063467/10e0909d-e026-4e7b-a357-97f885220f42)
 ![6](https://github.com/itsmesj/Object_Detection/assets/81063467/cf787f57-f2db-4a64-9fc8-020dcc4b160c)
+By setting the threshold value according to customized requirements, the system detects the confidence threshold setted between 0 and 1.
 ![7](https://github.com/itsmesj/Object_Detection/assets/81063467/1c96e3fc-3beb-4117-8f18-ee8eb46f8722)
 ![8](https://github.com/itsmesj/Object_Detection/assets/81063467/40a8e5c0-8ffc-4f05-9256-8ad300bac1e4)
 ![9](https://github.com/itsmesj/Object_Detection/assets/81063467/6aa67500-10cd-42e3-89f3-00a0ac694f0a)
